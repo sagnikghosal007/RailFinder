@@ -22,6 +22,8 @@ Backend Doen in IntelliJ IDE and FrontEnd Done in VSCode IDE
 
 
 Future Enhancements:
--> Authorization and Authentication
+> Authorization and Authentication
+-> Improve the UI part
+->  Book Now feature fro entensive data 
 -> Ability of the application with work on more data sets 
 -> Deployment using AWS or Netlify .
