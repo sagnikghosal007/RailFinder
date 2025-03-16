@@ -1,4 +1,7 @@
-RailFinder Backend
+# **Rail Finder App 🚆 – Spring Boot & Basic Frontend**  
+
+
+
 The UI Demo of the Full Stack Project of Rail Finder App:
 ![image](https://github.com/user-attachments/assets/51645489-d167-4516-8124-7cff715522ab)
 
